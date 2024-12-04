@@ -1,0 +1,28 @@
+body {
+    background-color: hsl(0, 0%, 8%);
+}
+
+.card {
+    border-radius: 10px;
+    background-color: hsl(0, 0%, 12%);
+}
+.card img {
+    height: 120px;
+    border-radius: 50%;
+}
+.card a, h1, p {
+    color: hsl(0, 0%, 100%);
+}
+h1, p {
+    font-weight: 400;
+}
+h2 {
+    color: hsl(75, 94%, 57%);
+    font-size: 14px;
+}
+h3 {
+    background-color: hsl(0, 0%, 20%);
+    font-size: 14px;
+    padding: 15px;
+    border-radius: 10px;
+}
