@@ -5,11 +5,11 @@
 body {
     display: flex;
     flex-wrap: wrap;
-    align-items: center;
     justify-content: center;
+    align-items: last baseline;
     height: 100vh;
 }
-a {
+.card a {
     text-decoration: none;
 }
 
@@ -18,7 +18,7 @@ a {
     flex-direction: column;
     padding: 10px;
     margin: auto;
-    width: 300px;
+    width: 280px;
 }
 .card * {
     text-align: center;
@@ -33,6 +33,9 @@ a {
 
 /* FOOTER */
 .attribution {
+    position: relative;
+    bottom: 0;
     width: 100%;
     margin-bottom: 0px;
+    padding-bottom: 0;
 }
