@@ -20,16 +20,18 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![./assets/images/Screenshots/Screenshot-Solution-Mobile.png]
+![./assets/images/Screenshots/Screenshot-Solution-Desktop.png]
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://easonvora.github.io/social-links-profile-main/]
 
 ## My process
 
-### Built with
+## Built with
+
 
 ### Continued development
 

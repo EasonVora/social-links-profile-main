@@ -29,6 +29,10 @@ h3 {
     padding: 15px;
     border-radius: 10px;
 }
+h3:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 20%);
+}
 p {
     margin: 30px
 }
