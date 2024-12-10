@@ -7,10 +7,6 @@ body {
     align-items: last baseline;
     height: 100vh;
 }
-main {
-    font-family: 'Inter';
-}
-
 
 .card {
     display: block;
@@ -19,6 +15,7 @@ main {
     margin: auto;
     width: 280px;
     text-align: center;
+    font-family: 'Inter';
 }
 .card img {
     display: block;
