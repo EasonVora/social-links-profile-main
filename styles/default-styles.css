@@ -11,8 +11,8 @@ body {
 .card {
     display: block;
     flex-direction: column;
-    padding: 10px;
     margin: auto;
+    padding: 10px;
     width: 280px;
     text-align: center;
     font-family: 'Inter';
