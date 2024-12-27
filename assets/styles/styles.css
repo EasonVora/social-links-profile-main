@@ -3,12 +3,14 @@ body {
 }
 
 .card {
-    border-radius: 10px;
     background-color: hsl(0, 0%, 12%);
+    border-radius: 10px;
 }
 .card img {
     height: 120px;
     border-radius: 50%;
+    height: 30vh;
+
 }
 .card a, h1, p {
     color: hsl(0, 0%, 100%);
@@ -30,8 +32,8 @@ h3 {
     border-radius: 10px;
 }
 h3:active {
-    background-color: hsl(75, 94%, 57%);
     color: hsl(0, 0%, 20%);
+    background-color: hsl(75, 94%, 57%);
 }
 p {
     margin: 30px
