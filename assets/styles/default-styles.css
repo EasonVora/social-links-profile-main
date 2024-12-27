@@ -34,11 +34,7 @@ body {
 .attribution {
     font-size: 12px;
     text-align: center;
-
-    position: relative;
-    bottom: 0;
     width: 100%;
-
     margin-bottom: 0px;
     padding-bottom: 0;
 }
