@@ -1,24 +1,14 @@
-# Frontend Mentor - Social links profile solution
-
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
+ 
 ## Table of contents
 
-- [The challenge](#the-challenge)
-- [Screenshot](#screenshot)
+- [Screenshots](#screenshot)
 - [Links](#links)
 - [My process](#my-process)
 - [Built with](#built-with)
 - [Continued development](#continued-development)
 - [Author](#author)
 
-### The challenge
-
-Users should be able to:
-
-- See hover and focus states for all interactive elements on the page
-
-### Screenshot
+### Screenshots
 
 ![./assets/images/Screenshots/Screenshot-Solution-Mobile.png]
 ![./assets/images/Screenshots/Screenshot-Solution-Desktop.png]
@@ -55,9 +45,10 @@ CSS Grid
 
 ## Author
 
-## Author
-
 - GitHub - [@EasonVora](https://github.com/EasonVora)
+
 - Frontend Mentor - [@EasonVora](https://www.frontendmentor.io/profile/EasonVora)
+
 - LinkedIn - [Eason Vora](https://www.linkedin.com/in/eason-vora-5a043b262/)
+
 - Instagram - [@vora_mota_bhai](https://www.instagram.com/vora_mota_bhai/)
